@@ -1,5 +1,5 @@
 # weather
-
+##### weather forecast website with search functionality to search for any city around the world
 ## Project setup
 ```
 npm install
